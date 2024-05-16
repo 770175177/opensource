@@ -1,0 +1,18 @@
+{
+    "plugins": ["splitter","ga","-baidu","sitemap-codingbelief","addcssjs"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-73815411-1"
+        },
+        "baidu": {
+            "token": "4ad50191d5d2bcbc1008997dd0c05245"
+        },
+        "sitemap-codingbelief": {
+            "hostname": "http://armv8-ref.codingbelief.com/"
+        },
+        "addcssjs": {
+            "js": ["js/custom.js"],
+            "css": ["css/custom.css"]
+        }
+    }
+}
